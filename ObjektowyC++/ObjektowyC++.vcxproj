@@ -23,6 +23,7 @@
     <ProjectGuid>{7C335391-1865-44B0-B3C7-1171A184ABFF}</ProjectGuid>
     <RootNamespace>ObjektowyC</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
+    <ProjectName>Projekt Objektowy c++ Łąka</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
